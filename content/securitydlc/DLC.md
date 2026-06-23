@@ -26,7 +26,7 @@ The DLC is an example mod made for VS. Impostor Legacy. For a grounded guide to 
 - Vietnamese
 
 # CHANGELOG
-Current version: **1.1.1**
+Current version: **1.1.1b**
 
 ## 1.1.2 (? 2026)
 
