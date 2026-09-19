@@ -3320,7 +3320,7 @@ class ChartEditorState extends MusicBeatState
 			}
 		}
 		
-		var note:EditorNote = renderedNotes.recycle(EditorNote, function() return new EditorNote(null, null, null, null, true));
+		var note:EditorNote = renderedNotes.recycle(EditorNote, function() return new EditorNote(0, 0, null, false, true));
 		note._reset();
 		note.chartData = i;
 		note.sustainLength = 0;
